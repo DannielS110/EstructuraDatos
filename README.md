@@ -1,5 +1,6 @@
 # EstructuraDatos
 Colaboradores del proyecto 
+
 Daniel Sanchez (DannielS110)
 
 Alexander ludeña (JhonaLude)
