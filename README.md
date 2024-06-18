@@ -27,3 +27,5 @@ Diagrama 1
 
 Diagrama corregido
 
+![Diagrama_UML_Estructura_Datos](https://github.com/DannielS110/EstructuraDatos/assets/166523536/0928cdcb-0a1b-4a42-8f70-958671a70aeb)
+
