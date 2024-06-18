@@ -21,6 +21,9 @@ En el caso de los arboles genere recorridos en orden, postorden y preorden, en t
 
 En todas las estructuras se pueda agregar, insertar y eliminar
 
+Compilación
+VS (Visual Studio Code) 
+
 Diagrama 1 
 
 ![image](https://github.com/DannielS110/EstructuraDatos/assets/166523536/b6576231-c7ab-456c-8c7d-4520c9534f93)
