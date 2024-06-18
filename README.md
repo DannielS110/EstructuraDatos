@@ -1,6 +1,7 @@
 # EstructuraDatos
 Colaboradores del proyecto 
 Daniel Sanchez (DannielS110)
+
 Alexander ludeña (JhonaLude)
 
 Generar un diagrama de clases que soporte:
