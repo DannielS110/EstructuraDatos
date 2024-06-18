@@ -25,4 +25,5 @@ Diagrama 1
 
 ![image](https://github.com/DannielS110/EstructuraDatos/assets/166523536/b6576231-c7ab-456c-8c7d-4520c9534f93)
 
+Diagrama corregido
 
